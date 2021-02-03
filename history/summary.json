@@ -1,21 +1,23 @@
 [
   {
     "name": "Briefcase",
-    "url": "https://briefcase.harmelin.com",
-    "icon": "https://favicons.githubusercontent.com/briefcase.harmelin.com",
+    "url": "$BRIEFCASE_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "briefcase",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 197,
     "timeDay": 197,
     "timeWeek": 197,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 0
+    }
   },
   {
     "name": "Harmelin Media",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3681,
-    "timeDay": 3681,
-    "timeWeek": 3681,
-    "timeMonth": 3681,
-    "timeYear": 3681,
+    "time": 3212,
+    "timeDay": 3212,
+    "timeWeek": 3212,
+    "timeMonth": 3212,
+    "timeYear": 3212,
     "dailyMinutesDown": {}
   }
 ]
