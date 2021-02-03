@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "briefcase",
     "status": "up",
-    "uptime": "85.76%",
-    "uptimeDay": "85.76%",
-    "uptimeWeek": "85.76%",
-    "uptimeMonth": "85.76%",
-    "uptimeYear": "85.76%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
-    "dailyMinutesDown": {
-      "2021-02-03": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Harmelin Media",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3212,
-    "timeDay": 3212,
-    "timeWeek": 3212,
-    "timeMonth": 3212,
-    "timeYear": 3212,
+    "time": 3065,
+    "timeDay": 3065,
+    "timeWeek": 3065,
+    "timeMonth": 3065,
+    "timeYear": 3065,
     "dailyMinutesDown": {}
   }
 ]
