@@ -4,7 +4,7 @@ repo: ghost
 # Add your sites here
 sites:
   - name: Briefcase
-    url: https://briefcase.harmelin.com
+    url: $BRIEFCASE_URL
   - name: Harmelin Media
     url: https://harmelin.com
 
