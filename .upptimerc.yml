@@ -5,13 +5,12 @@ repo: ghost
 sites:
   - name: Briefcase
     url: https://briefcase.harmelin.com
+  - name: Harmelin Media
+    url: https://harmelin.com
 
 status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /ghost
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
       href: /
