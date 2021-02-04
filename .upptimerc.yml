@@ -1,7 +1,6 @@
-owner: jmccabe-harmelin
-repo: ghost
-
-# Add your sites here
+owner: jmccabe-harmelin # GitHub username
+repo: ghost # GitHub repo name
+user-agent: jmccage-harmelin
 sites:
   - name: Briefcase
     url: $BRIEFCASE_URL
@@ -12,11 +11,7 @@ status-website:
   baseUrl: /ghost
   name: Upptime
   theme: dark
-  introTitle: "This is the introTitle"
-  introMessage: This is a message
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -27,7 +22,6 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/15 * * * *" # changed from */5 to */15
+  uptime: "*/15 * * * *" # changed from default */5 to */15
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Docs https://upptime.js.org/docs/configuration
