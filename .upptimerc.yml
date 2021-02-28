@@ -1,9 +1,11 @@
 owner: jmccabe-harmelin # GitHub username
 repo: ghost # GitHub repo name
-user-agent: jmccage-harmelin
+user-agent: jmccabe-harmelin
 sites:
   - name: Briefcase
     url: $BRIEFCASE_URL
+    assignees:
+    - jmccabe-harmelin
   - name: Harmelin Media
     url: https://harmelin.com
 
@@ -22,6 +24,6 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/15 * * * *" # changed from default */5 to */15
+  uptime: "*/5 * * * *" # Every 5 minutes
 
 # Docs https://upptime.js.org/docs/configuration
