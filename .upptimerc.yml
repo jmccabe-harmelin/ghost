@@ -6,9 +6,6 @@ sites:
     url: $BRIEFCASE_URL
     assignees:
     - jmccabe-harmelin
-  - name: Harmelin Media
-    url: https://harmelin.com
-
 status-website:
   baseUrl: /ghost
   name: Upptime
