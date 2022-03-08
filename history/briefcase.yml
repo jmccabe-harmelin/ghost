@@ -1,7 +1,7 @@
 url: $BRIEFCASE_URL
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2022-03-07T23:12:27.034Z
+status: down
+code: 500
+responseTime: 67
+lastUpdated: 2022-03-08T02:22:55.116Z
 startTime: Wed Feb 03 2021 17:38:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
