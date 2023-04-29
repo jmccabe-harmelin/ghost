@@ -6,6 +6,10 @@ sites:
     url: $BRIEFCASE_URL
     assignees:
     - jmccabe-harmelin
+  - name: Harmonee
+    url: $HARMONEE_URL
+    assignees:
+    - jmccabe-harmelin
 status-website:
   baseUrl: /ghost
   name: Upptime
