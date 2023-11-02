@@ -1,7 +1,7 @@
 url: $HARMONEE_URL
-status: down
-code: 500
-responseTime: 6084
-lastUpdated: 2023-11-02T23:15:41.867Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2023-11-02T23:24:33.241Z
 startTime: 2023-04-29T13:48:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
