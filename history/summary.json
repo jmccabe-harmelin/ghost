@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 71,
+      "2025-12-11": 183,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -388,9 +388,9 @@
     "url": "$HARMONEE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "harmonee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
@@ -400,6 +400,7 @@
     "timeMonth": 230,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2025-12-11": 0,
       "2025-09-02": 161,
       "2025-09-01": 636,
       "2025-08-31": 355,
