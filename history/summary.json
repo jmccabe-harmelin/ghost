@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "briefcase",
     "status": "down",
-    "uptime": "43.26%",
+    "uptime": "43.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "9.02%",
@@ -16,7 +16,8 @@
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-04-09": 104,
+      "2026-04-10": 116,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -377,8 +378,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -393,9 +393,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.68%",
     "time": 210,
-    "timeDay": 186,
-    "timeWeek": 225,
-    "timeMonth": 219,
+    "timeDay": 145,
+    "timeWeek": 154,
+    "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2026-03-18": 285,
