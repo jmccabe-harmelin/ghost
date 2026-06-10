@@ -4,12 +4,12 @@
     "url": "$BRIEFCASE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "briefcase",
-    "status": "up",
-    "uptime": "44.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "16.28%",
+    "status": "down",
+    "uptime": "44.77%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "16.42%",
     "time": 269,
     "timeDay": 122,
     "timeWeek": 225,
@@ -322,7 +322,8 @@
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
-      "2026-04-01": 1440
+      "2026-04-01": 1440,
+      "2026-06-10": 5
     }
   },
   {
@@ -330,9 +331,9 @@
     "url": "$HARMONEE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "harmonee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -347,7 +348,8 @@
       "2025-09-01": 636,
       "2025-09-02": 161,
       "2025-12-11": 57,
-      "2026-03-18": 285
+      "2026-03-18": 285,
+      "2026-06-10": 0
     }
   }
 ]
